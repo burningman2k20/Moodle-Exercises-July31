@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoodleExercisesJuly31</string>
+    <string name="butEval">Even/Odd</string>
+    <string name="butClear">Clear</string>
+    <string name="textEvenOdd">Even or Odd?</string>
+    <string name="Word">Word</string>
+    <string name="NumberToWord">Number Word</string>
+    <string name="Compare">Compare</string>
+    <string name="isLarger">Which is larger?</string>
+    <string name="isMultiple">Multiple of what?</string>
+    <string name="Multiple">Multiple</string>
+    <string name="EnterNumber">Please input numbers</string>
+</resources>
